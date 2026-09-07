@@ -1,76 +1,65 @@
-# Talbina Bliss Paste
+# 🌾 Talbina Bliss Paste
 
-## Development of a Barley-Based Functional Health Spread
+### Development of a Barley-Based Functional Health Spread
 
-Talbina Bliss Paste is an academic functional food product developed using barley flour, dates, seeds, and selected functional ingredients. The product concept combines traditional Talbina food principles with modern food product development approaches.
+**Talbina Bliss Paste** is an academic functional food product developed using **barley flour, dates, seeds, and selected functional ingredients**. The project combines traditional Talbina food principles with modern food product development approaches.
 
-The project focuses on product formulation, processing, quality control, nutritional profiling, sensory evaluation, packaging, market positioning, and pilot- and large-scale manufacturing feasibility.
-
----
-
-## 1. Project Overview
-
-| Parameter            | Details                                         |
-| -------------------- | ----------------------------------------------- |
-| **Product Name**     | Talbina Bliss Paste                             |
-| **Product Category** | Functional & Nutraceutical Food                 |
-| **Product Type**     | Semi-solid functional paste / health spread     |
-| **Project Year**     | 2026                                            |
-| **Project Focus**    | Product Development & Manufacturing Feasibility |
-
-### Key Project Areas
-
-* Product development
-* Formulation optimization
-* Sensory evaluation
-* Shelf-life assessment
-* Nutritional profiling
-* Packaging development
-* Quality control
-* Market strategy
-* Manufacturing feasibility
-* Financial analysis
+The project explores **formulation, processing, sensory evaluation, quality control, nutritional profiling, packaging, market positioning, and manufacturing feasibility**.
 
 ---
 
-## 2. Product Concept
+## 📌 Project Overview
 
-Talbina Bliss Paste is designed as a convenient and nutritious barley-based health spread inspired by traditional Talbina food principles.
+|                   |                                             |
+| ----------------- | ------------------------------------------- |
+| **Product**       | Talbina Bliss Paste                         |
+| **Category**      | Functional & Nutraceutical Food             |
+| **Product Type**  | Semi-solid functional paste / health spread |
+| **Project Year**  | 2026                                        |
+| **Scale Studied** | Lab, Pilot & Large Scale                    |
+| **Project Focus** | Product Development & Feasibility           |
+
+---
+
+## 🎯 Project Objectives
+
+* Develop a nutritious barley-based functional food product
+* Optimize the product formulation
+* Evaluate sensory acceptability
+* Identify important quality and stability parameters
+* Develop a suitable packaging concept
+* Estimate nutritional composition
+* Evaluate pilot- and large-scale manufacturing feasibility
+* Analyze production costs and potential market positioning
+
+---
+
+## 🌾 Product Concept
+
+Talbina Bliss Paste is designed as a **convenient, nutritious, ready-to-eat barley-based spread** inspired by traditional Talbina food principles.
+
+### Key Features
+
+* 🌾 Barley-based formulation
+* 🌴 Dates as a natural sweetening ingredient
+* 🌱 Flaxseed and chia seeds
+* 🥄 Ready-to-eat spread format
+* 💚 Source of dietary fiber
+* 📦 Convenient packaging concept
+* 🔬 Developed using food product development principles
 
 ### Potential Uses
 
 * Breakfast spread
-* Base for smoothies
+* Smoothie ingredient
 * Dessert ingredient
 * Nutritious food supplement
 
-### Key Value Propositions
-
-* Barley-based functional food
-* Natural ingredients
-* No added preservatives in the initial concept
-* Source of dietary fiber
-* Contains seeds and dates
-* Convenient ready-to-eat format
-* Traditional concept combined with modern food product development
-
 ---
 
-## 3. Target Consumers
+## 🧪 Product Formulation
 
-The product is intended for:
-
-* Health-conscious consumers
-* Fitness and wellness enthusiasts
-* Families seeking nutritious food options
-* Elderly consumers
-* Consumers interested in traditional and functional foods
-
----
-
-# 4. Product Formulation
-
-## 1 kg Batch Formulation
+### 1 kg Batch
 
 | Ingredient           | Quantity |
 | -------------------- | -------: |
@@ -83,44 +72,11 @@ The product is intended for:
 | Cinnamon             |      2 g |
 | Natural Antioxidant  |      1 g |
 
-The formulation was designed to provide a balanced combination of barley, dates, seeds, and other functional ingredients.
+The formulation combines **barley, dates, seeds, and functional ingredients** to develop a nutritious and spreadable product.
 
 ---
 
-# 5. Processing Procedure
-
-## Lab-Scale Processing
-
-### Step 1: Ingredient Preparation
-
-* Clean and roast barley flour at approximately 80–100°C.
-* Soak and deseed dates.
-* Grind dates into a smooth paste.
-* Prepare functional ingredients such as flaxseed and chia seeds.
-
-### Step 2: Blending
-
-Barley flour, date paste, and functional ingredients are mixed to obtain a uniform formulation.
-
-### Step 3: Cooking
-
-The mixture is heated at approximately 85–90°C for 10–15 minutes to develop the desired consistency and support microbial safety.
-
-### Step 4: Homogenization
-
-The mixture is blended until a smooth and uniform paste is obtained.
-
-### Step 5: Filling and Packaging
-
-The finished paste is filled into suitable food-grade jars or laminated pouches and sealed.
-
-### Step 6: Storage
-
-The packaged product is intended for cool and dry storage. Shelf stability depends on formulation, moisture content, water activity, and packaging conditions.
-
----
-
-## 6. Processing Flow
+## ⚙️ Processing Flow
 
 ```text
 Raw Material Selection
@@ -129,7 +85,7 @@ Ingredient Preparation
         ↓
 Barley Roasting
         ↓
-Date Preparation & Pasting
+Date Preparation
         ↓
 Grinding
         ↓
@@ -143,54 +99,27 @@ Sieving
         ↓
 Filling & Packaging
         ↓
-Sealing
-        ↓
 Storage
 ```
 
 ---
 
-# 7. Product Characteristics
+## 🔬 Quality & Sensory Evaluation
 
-| Attribute     | Description                                  |
-| ------------- | -------------------------------------------- |
-| **Form**      | Smooth, ready-to-eat paste                   |
-| **Texture**   | Thick, creamy and spreadable                 |
-| **Color**     | Light brown to caramel                       |
-| **Flavor**    | Sweet, malty with date aroma                 |
-| **Category**  | Functional traditional paste / health spread |
-| **Packaging** | Airtight jar or pouch                        |
+### Quality Parameters
 
----
-
-# 8. Quality Control
-
-The following quality parameters were considered during product development:
+The project considered:
 
 * pH
-* Water activity (Aw)
 * Moisture content
+* Water activity (Aw)
 * Microbial load
-* Sensory evaluation
-* Texture evaluation
+* Texture
+* Sensory characteristics
 
-## Proposed Stability Targets
+### Sensory Evaluation
 
-| Parameter               | Target                |
-| ----------------------- | --------------------- |
-| **Moisture**            | <12%                  |
-| **Water Activity (Aw)** | <0.60                 |
-| **pH**                  | Approximately 4.8–5.5 |
-
-These parameters would be monitored during product development and storage studies.
-
----
-
-# 9. Sensory Evaluation
-
-Sensory evaluation was proposed to assess product acceptability using a **9-point hedonic scale**.
-
-### Sensory Attributes
+Product acceptability was evaluated using a **9-point hedonic scale** based on:
 
 * Appearance
 * Color
@@ -199,13 +128,11 @@ Sensory evaluation was proposed to assess product acceptability using a **9-poin
 * Texture
 * Overall acceptability
 
-The sensory evaluation helps determine consumer acceptability and identify areas for formulation optimization.
-
 ---
 
-# 10. Nutritional Profile
+## 🥣 Approximate Nutritional Profile
 
-### Approximate Nutritional Profile per 30 g Serving
+### Per 30 g Serving
 
 | Nutrient      | Approximate Value |
 | ------------- | ----------------: |
@@ -221,19 +148,19 @@ The sensory evaluation helps determine consumer acceptability and identify areas
 
 ---
 
-# 11. Packaging Concept
+## 📦 Packaging Concept
 
-The proposed packaging concept focuses on product protection, convenience, and consumer appeal.
+The proposed packaging focuses on **product protection, convenience, and visual appeal**.
 
 ### Packaging Features
 
 * Airtight food-grade packaging
 * Opaque jar or laminated pouch
 * Product and nutritional labeling
-* QR code for product information and usage ideas
+* QR code for product information
 * Earth-tone visual identity
 
-### Potential Future Variants
+### Future Product Variants
 
 * Talbina Bliss Cocoa
 * Talbina Bliss with Almond & Honey
@@ -241,136 +168,44 @@ The proposed packaging concept focuses on product protection, convenience, and c
 
 ---
 
-# 12. Pilot-Scale Manufacturing Feasibility
+## 🏭 Manufacturing Feasibility
 
-## Production Assumptions
+The project evaluates both **pilot-scale and large-scale manufacturing**.
 
-| Parameter              |   Pilot Scale |
-| ---------------------- | ------------: |
-| **Daily Capacity**     |     20 kg/day |
-| **Working Shift**      |       8 hours |
-| **Working Days**       | 25 days/month |
-| **Monthly Production** |        500 kg |
-| **Packaging Size**     |         250 g |
-| **Monthly Packs**      |         2,000 |
+### Pilot Scale
 
-## Manufacturing Process
+* **Capacity:** 20 kg/day
+* **Monthly Production:** 500 kg
+* **Pack Size:** 250 g
+* **Estimated Production Cost:** PKR 890/kg
+* **Proposed Selling Price:** ~PKR 290/250 g
 
-1. Raw material inspection
-2. Sorting and preparation of dates
-3. Date paste preparation
-4. Grinding
-5. Roasting/drying of barley flour
-6. Ingredient mixing
-7. Sieving
-8. Weighing and packaging
-9. Storage and dispatch
+### Large Scale
+
+* **Capacity:** 200 kg/day
+* **Monthly Production:** 5,000 kg
+* **Pack Size:** 250 g
+* **Estimated Production Cost:** PKR 874/kg
+* **Proposed Selling Price:** PKR 280–300/250 g
+
+> Financial values represent academic feasibility estimates and require validation before commercial implementation.
 
 ---
 
-# 13. Pilot-Scale Equipment
+## 📊 Market Strategy
 
-| Equipment                      | Estimated Cost (PKR) |
-| ------------------------------ | -------------------: |
-| Hammer Mill / Grinder          |              180,000 |
-| Ribbon Mixer                   |              220,000 |
-| Roasting/Drying Unit           |              150,000 |
-| Vibro Sifter                   |               80,000 |
-| Digital Weighing Scale         |               25,000 |
-| Sealing Machine                |              120,000 |
-| Stainless Steel Tables & Tools |               60,000 |
-| **Total**                      |          **835,000** |
+### Positioning
 
----
+**Functional Sunnah-Inspired Food**
 
-# 14. Pilot-Scale Financial Feasibility
-
-## Estimated Monthly Operating Cost
-
-| Cost Head     |         PKR |
-| ------------- | ----------: |
-| Raw Materials |     275,000 |
-| Packaging     |      50,000 |
-| Utilities     |     130,000 |
-| Labor         |      55,000 |
-| Rent          |      25,000 |
-| Miscellaneous |      12,000 |
-| **Total**     | **547,000** |
-
-### Estimated Production Cost
-
-* **Cost per kg:** PKR 890
-* **Cost per 250 g pack:** PKR 223
-* **Proposed selling price:** Approximately PKR 290 per 250 g pack
-
----
-
-# 15. Large-Scale Manufacturing Feasibility
-
-## Production Assumptions
-
-| Parameter              |   Large Scale |
-| ---------------------- | ------------: |
-| **Daily Capacity**     |    200 kg/day |
-| **Working Shift**      |       8 hours |
-| **Working Days**       | 25 days/month |
-| **Monthly Production** |      5,000 kg |
-| **Packaging Size**     |         250 g |
-| **Monthly Packs**      |        20,000 |
-
----
-
-# 16. Large-Scale Equipment
-
-| Equipment                 | Estimated Cost (PKR) |
-| ------------------------- | -------------------: |
-| Industrial Grinder        |              750,000 |
-| Date Paste Machine        |              450,000 |
-| Ribbon Mixer              |            1,200,000 |
-| Roasting/Drying Unit      |              900,000 |
-| Vibro Sifter              |              450,000 |
-| Automatic Packing Machine |            1,800,000 |
-| Conveyor & Handling       |              350,000 |
-| QC Equipment              |              200,000 |
-| **Total**                 |        **5,300,000** |
-
----
-
-# 17. Large-Scale Financial Feasibility
-
-## Estimated Monthly Costs
-
-| Cost Head     | Estimated Cost |
-| ------------- | -------------: |
-| Raw Materials |  PKR 2,480,000 |
-| Packaging     |    PKR 360,000 |
-| Utilities     |    PKR 940,000 |
-| Labor         |    PKR 450,000 |
-| Factory Rent  |     PKR 90,000 |
-| Miscellaneous |     PKR 50,000 |
-
-### Estimated Production Cost
-
-* **Cost per kg:** PKR 874
-* **Cost per 250 g pack:** PKR 218
-* **Proposed selling price:** PKR 280–300 per 250 g pack
-
----
-
-# 18. Market Strategy
-
-## Product Positioning
-
-### Functional Sunnah-Inspired Food
-
-Potential positioning themes include:
+Potential positioning themes:
 
 * Natural energy
 * Barley-based nutrition
 * Convenient functional food
 * Traditional concept with modern food development
 
-## Potential Marketing Channels
+### Potential Marketing Channels
 
 * Online wellness stores
 * Organic food outlets
@@ -381,17 +216,17 @@ Potential positioning themes include:
 
 ---
 
-# 19. Project Skills
+## 🛠️ Skills Demonstrated
 
-This project provided practical experience in:
+Through this project, I developed practical experience in:
 
 * Food Product Development
 * Food Formulation
 * Ingredient Optimization
 * Sensory Evaluation
-* Shelf-Life Planning
 * Quality Control
-* Nutritional Label Development
+* Shelf-Life Planning
+* Nutritional Profiling
 * Packaging Concept Development
 * Manufacturing Process Design
 * Pilot-Scale Feasibility
@@ -401,9 +236,25 @@ This project provided practical experience in:
 
 ---
 
-# 20. Project Team
+## 👩‍🔬 My Contribution
 
-### Team Members
+My contribution to the project included:
+
+* Product formulation and development
+* Dataset and information handling
+* Food science analysis
+* Nutritional profiling
+* Processing documentation
+* Quality control planning
+* Project documentation
+* Preparation of process flow diagrams and visual documentation
+* Packaging and product presentation concepts
+
+---
+
+## 👥 Project Team
+
+**Team Members**
 
 * Aqsa Kanwal
 * Ali Reza
@@ -411,42 +262,52 @@ This project provided practical experience in:
 * Neha Khan
 * Areesha Fatima
 
-### Supervisor
-
-**Sir Anjum**
+**Supervisor:** Sir Anjum
 
 ---
 
-# 21. Project Documentation
+## 📸 Project Gallery
 
-The complete project report is available in PDF format in the repository.
+Project images, product photographs, processing diagrams, sensory evaluation visuals, packaging concepts, and other supporting materials are available in the repository.
 
-**Project Report:**
-`docs/Talbina-Bliss-Paste-Project-Report.pdf`
+### Product & Project Images
 
----
+![Talbina Bliss Paste](images/final-product.jpg)
 
-# 22. Project Gallery
+*Final product / project visualization*
 
-Project photographs, product visuals, processing diagrams, packaging concepts, and other supporting visuals are organized in the `images/` folder.
-
-Suggested gallery contents:
-
-* Final Product
-* Product Development
-* Processing Flow
-* Sensory Evaluation
-* Packaging Design
-* Nutritional Label
+> Additional project images will be added to the `images/` folder.
 
 ---
 
-# 23. Academic Project
+## 📄 Project Documentation
 
-This project was developed as an academic food product development and feasibility study, integrating concepts from food science, functional foods, quality control, product development, manufacturing, and food business planning.
+For detailed technical information, formulation, processing, quality control, manufacturing feasibility, financial analysis, and market strategy:
+
+### 📘 Detailed Project Overview
+
+[View Project Overview](project-overview.md)
+
+### 📑 Complete Project Report
+
+[View Complete Project Report](docs/Talbina-Bliss-Paste-Project-Report.pdf)
 
 ---
 
-# 24. Disclaimer
+## 🎓 Academic Project
+
+This project was developed as an **academic food product development and feasibility study**, integrating concepts from:
+
+**Food Science + Functional Foods + Product Development + Quality Control + Manufacturing + Food Business Planning**
+
+---
+
+## ⚠️ Disclaimer
 
 This repository documents an academic product-development and feasibility project. Financial figures, nutritional values, processing conditions, shelf-life estimates, and production assumptions are project estimates and should be validated through appropriate laboratory testing, pilot trials, regulatory review, and commercial feasibility studies before industrial implementation.
+
+---
+
+### 🌾 Talbina Bliss Paste
+
+**Traditional Inspiration • Modern Food Development • Functional Nutrition**
