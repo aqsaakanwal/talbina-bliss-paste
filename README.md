@@ -1,8 +1,8 @@
-# 🌾 Talbina Bliss Paste
+# 🌾 Talbina Bliss Powder
 
 ### Development of a Barley-Based Functional Health Spread
 
-**Talbina Bliss Paste** is an academic functional food product developed using **barley flour, dates, seeds, and selected functional ingredients**. The project combines traditional Talbina food principles with modern food product development approaches.
+**Talbina Bliss Powder** is an academic functional food product developed using **barley flour, dates, seeds, and selected functional ingredients**. The project combines traditional Talbina food principles with modern food product development approaches.
 
 The project explores **formulation, processing, sensory evaluation, quality control, nutritional profiling, packaging, market positioning, and manufacturing feasibility**.
 
@@ -12,9 +12,9 @@ The project explores **formulation, processing, sensory evaluation, quality cont
 
 |                   |                                             |
 | ----------------- | ------------------------------------------- |
-| **Product**       | Talbina Bliss Paste                         |
+| **Product**       | Talbina Bliss Powder                         |
 | **Category**      | Functional & Nutraceutical Food             |
-| **Product Type**  | Semi-solid functional paste / health spread |
+| **Product Type**  | functional Powder / health spread |
 | **Project Year**  | 2026                                        |
 | **Scale Studied** | Lab, Pilot & Large Scale                    |
 | **Project Focus** | Product Development & Feasibility           |
@@ -36,7 +36,7 @@ The project explores **formulation, processing, sensory evaluation, quality cont
 
 ## 🌾 Product Concept
 
-Talbina Bliss Paste is designed as a **convenient, nutritious, ready-to-eat barley-based spread** inspired by traditional Talbina food principles.
+Talbina Bliss Powder is designed as a **convenient, nutritious, ready-to-eat barley-based spread** inspired by traditional Talbina food principles.
 
 ### Key Features
 
@@ -272,7 +272,7 @@ Project images, product photographs, processing diagrams, sensory evaluation vis
 
 ### Product & Project Images
 
-![Talbina Bliss Paste](images/final-product.jpg)
+![Talbina Bliss Powder](images/final-product.jpg)
 
 *Final product / project visualization*
 
