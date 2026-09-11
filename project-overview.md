@@ -1,8 +1,8 @@
-# Talbina Bliss Paste
+# Talbina Bliss Powder
 
 ## Development of a Barley-Based Functional Health Spread
 
-Talbina Bliss Paste is an academic functional food product developed using barley flour, dates, seeds, and selected functional ingredients. The product concept combines traditional Talbina food principles with modern food product development approaches.
+Talbina Bliss Powder is an academic functional food product developed using barley flour, dates, seeds, and selected functional ingredients. The product concept combines traditional Talbina food principles with modern food product development approaches.
 
 The project focuses on product formulation, processing, quality control, nutritional profiling, sensory evaluation, packaging, market positioning, and pilot- and large-scale manufacturing feasibility.
 
@@ -12,9 +12,9 @@ The project focuses on product formulation, processing, quality control, nutriti
 
 | Parameter            | Details                                         |
 | -------------------- | ----------------------------------------------- |
-| **Product Name**     | Talbina Bliss Paste                             |
+| **Product Name**     | Talbina Bliss Powder                            |
 | **Product Category** | Functional & Nutraceutical Food                 |
-| **Product Type**     | Semi-solid functional paste / health spread     |
+| **Product Type**     | Semi-solid functional Powder / health spread     |
 | **Project Year**     | 2026                                            |
 | **Project Focus**    | Product Development & Manufacturing Feasibility |
 
@@ -35,7 +35,7 @@ The project focuses on product formulation, processing, quality control, nutriti
 
 ## 2. Product Concept
 
-Talbina Bliss Paste is designed as a convenient and nutritious barley-based health spread inspired by traditional Talbina food principles.
+Talbina Bliss Powder is designed as a convenient and nutritious barley-based health spread inspired by traditional Talbina food principles.
 
 ### Potential Uses
 
@@ -422,7 +422,7 @@ This project provided practical experience in:
 The complete project report is available in PDF format in the repository.
 
 **Project Report:**
-`docs/Talbina-Bliss-Paste-Project-Report.pdf`
+`docs/Talbina-Bliss-Powder-Project-Report.pdf`
 
 ---
 
